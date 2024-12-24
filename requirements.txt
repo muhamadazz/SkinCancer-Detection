@@ -1,6 +1,5 @@
-ultralytics
 streamlit
-opencv-python-headless
-numpy
+roboflow
+requests
 Pillow
-torch
+numpy
