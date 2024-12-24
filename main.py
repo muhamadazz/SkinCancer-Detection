@@ -40,7 +40,7 @@ elif option == "Enter Image URL" and image_url:
 
 # Set up Roboflow model
 roboflow = Roboflow(api_key="nZGnQ7JmEmth0YRBNrT6")  # Replace with your API key
-model = roboflow.workspace("skin_disease").project("skin_disease-y20fz").version(1).model
+model = roboflow.workspace("uascv-5uxrj").project("skin_disease-y20fz").version(1).model
 
 # Inference
 if option == "Upload Image" and image is not None or (option == "Enter Image URL" and image_url):
