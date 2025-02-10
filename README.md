@@ -30,8 +30,6 @@ Anda bisa mencoba model ini secara langsung melalui:
 🤖 **[Roboflow Model](https://universe.roboflow.com/uascv-5uxrj/skin_disease-y20fz/model/1)** – Uji model secara online dengan gambar yang Anda unggah.  
 
 ## 📸 Hasil Training model 
-Berikut beberapa hasil training model menggunakan YOLOv11:  
-|-----------------|
 | ![Input](./training_evaluation/training_graph.png) |
 | ![Input](path/training_evaluation/loss_graph.png) | 
 | ![Input](path/training_evaluation/precision.png) | 
