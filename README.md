@@ -3,7 +3,7 @@
 Proyek ini mengembangkan **sistem deteksi kanker kulit** berbasis **Computer Vision** menggunakan **YOLOv11** dengan bahasa pemrograman Python. Model ini dapat mengenali **7 jenis penyakit kulit** yang dapat diakses melalui aplikasi berbasis web.  
 
 ## 📌 Dataset  
-Dataset yang digunakan berasal dari Roboflow dan dapat diakses di sini:  
+Dataset yang digunakan sebanyak 7000 image yang dapat diakses di sini:  
 🔗 **[Skin Disease Dataset](https://universe.roboflow.com/uascv-5uxrj/skin_disease-y20fz/dataset/1)**  
 
 Model dilatih untuk mendeteksi **7 jenis penyakit kulit**, yaitu:  
