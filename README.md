@@ -31,8 +31,8 @@ Anda bisa mencoba model ini secara langsung melalui:
 
 ## 📸 Hasil Training model 
 | ![Input](./training_evaluation/training_graph.png) |
-| ![Input](path/training_evaluation/loss_graph.png) | 
-| ![Input](path/training_evaluation/precision.png) | 
+| ![Input](./training_evaluation/loss_graph.png) | 
+| ![Input](./training_evaluation/precision.png) | 
 
 ## 🛠️ Teknologi yang Digunakan  
 - **Python**  
